@@ -10,7 +10,7 @@
 ---
 
 ### 🚀 About Me
-- 📱 Android Engineer focused on Kotlin, Jetpack Compose, and MVVM
+- 📱 Mobile Engineer focused on Kotlin, Jetpack Compose, KMP and Swift
 - 🔄 Experienced with Kotlin Multiplatform (KMP) for shared business logic across platforms
 - 🧪 Currently exploring Compose Multiplatform (CMP) — building a news app with shared UI across Android & iOS
 - 🧠 Interested in clean architecture, testable code, and multiplatform tooling
