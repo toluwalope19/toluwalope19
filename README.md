@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Toluwalope</h1>
-<h3 align="center">Android Engineer building native & multiplatform apps with Kotlin</h3>
+<h3 align="center">Mobile/Android Engineer building native & multiplatform apps with Kotlin</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/ayodelepathfinder" target="_blank">
